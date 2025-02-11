@@ -20,3 +20,6 @@
 [12:23:37] [info] Welcome to spdlog with classes!
 [12:23:37] [warning] This is a warning message
 [12:23:37] [debug] This is a debug message
+[13:00:18] [info] Welcome to spdlog with classes!
+[13:00:18] [warning] This is a warning message
+[13:00:18] [debug] This is a debug message
