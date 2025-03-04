@@ -1,7 +1,0 @@
-[09:57:11] [info] This is a rotating log message
-[10:53:05] [info] This is a rotating log message
-[11:06:28] [info] This is a rotating log message
-[11:08:24] [info] This is a rotating log message
-[11:23:55] [info] This is a rotating log message
-[11:29:52] [info] This is a rotating log message
-[09:57:18] [info] This is a rotating log message

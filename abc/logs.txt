@@ -1,6 +1,0 @@
-[2025-02-04 10:06:27.747] [file_logger] [info] Logging to a file now!
-[2025-02-04 10:06:27.747] [file_logger] [warning] This is a warning in logs.txt
-[2025-02-04 10:06:27.747] [file_logger] [error] Error logged!
-[2025-02-04 11:24:54.443] [file_logger] [info] Logging to a file now!
-[2025-02-04 11:24:54.443] [file_logger] [warning] This is a warning in logs.txt
-[2025-02-04 11:24:54.443] [file_logger] [error] Error logged!
